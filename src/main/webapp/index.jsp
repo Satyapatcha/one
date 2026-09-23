@@ -1,5 +1,3 @@
-This is a complete HTML document that creates a modern e-commerce interface called "NexusShop". It features a clean, card-based layout with a hero banner, product categories, a trending products section, a flash deal with a live countdown timer, customer testimonials, and a newsletter signup form. The design uses a warm, professional color scheme with smooth hover effects.
-```html
 <!doctype html>
 <html lang="en">
 <head>
